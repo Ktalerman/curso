@@ -1,0 +1,39 @@
+*{color: blue;
+
+}
+
+
+p{ color:rgb(250, 19, 19);
+    width: 380px;
+}
+
+h1{ border: 10px; color: aqua;
+    padding: 5px;
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    font-weight: bold; 
+    color: gray;
+}
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+  #mi_parrafo{
+    color: greenyellow;
+    font-size: 34px;
+}
+.estaesmiclase{
+    font-weight: bold;
+    font-family:"Roboto", sans-serif;
+    font-size: 50px;
+    color: chocolate;
+}
+section h1 {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24;
+    color:rosybrown ;
+}
